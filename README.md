@@ -23,9 +23,9 @@ This portfolio highlights:
 `Bootstrap 5`
 
 # 💡 Features
-`Fully responsive design (mobile/tablet/desktop)`
+Fully responsive design (mobile/tablet/desktop)
 
-`Smooth scrolling and animations`
+Smooth scrolling and animations
 
 Projects section and descriptions
 
@@ -48,7 +48,7 @@ portfolio/
 ├── images/
 ```
 # 🚀 How to Run Locally
-`Clone the repo:`
+Clone the repo:
 ```
 git clone https://github.com/SayakSaha2002/MyPortfolio.git
 ```
@@ -63,7 +63,7 @@ Hi, I'm Sayak Saha, a Master's student at Future Institute of Engineering and Ma
 # 📫 Contact Me
 📧 Email: `sahasayak2002@gmail.com`
 
-`💼 [Portfolio:](https://sayaksaha2002.github.io/MyPortfolio/)`
+💼 [Portfolio:](https://sayaksaha2002.github.io/MyPortfolio/)
 
 # 📃 License
 This project is open source under the MIT License.
