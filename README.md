@@ -1,9 +1,8 @@
-# My Portfolio basic
-👨‍💻 Sayak Saha - Portfolio Website
+# 👨‍💻 Sayak Saha - Portfolio Website
 Welcome to my personal portfolio website!
 This site showcases my projects, skills, education, and contact information in a clean and responsive layout.
 
-🔍 Overview
+# 🔍 Overview
 This portfolio highlights:
 
 🎓 My educational background
@@ -14,36 +13,31 @@ This portfolio highlights:
 
 📧 Contact form or direct links to email and social media
 
-🛠️ Tech Stack
-HTML5
+# 🛠️ Tech Stack
+`HTML5`
 
-CSS3
+`CSS3`
 
-JavaScript
+`JavaScript`
 
-Bootstrap 5
+`Bootstrap 5`
 
-💡 Features
-Fully responsive design (mobile/tablet/desktop)
+# 💡 Features
+`Fully responsive design (mobile/tablet/desktop)`
 
-Smooth scrolling and animations
+`Smooth scrolling and animations`
 
-Projects section with live links and descriptions
+Projects section and descriptions
 
 About Me section with bio and education
 
 Contact section with email and social links
 
 📁 Folder Structure
-lua
-Copy
-Edit
+```
 portfolio/
 │
 ├── index.html
-├── about.html
-├── projects.html
-├── contact.html
 │
 ├── css/
 │   └── style.css
@@ -51,30 +45,25 @@ portfolio/
 ├── js/
 │   └── script.js
 │
-├── assets/
-│   ├── images/
-│   └── resume.pdf
-🚀 How to Run Locally
-Clone the repo:
+├── images/
+```
+# 🚀 How to Run Locally
+`Clone the repo:`
+```
+git clone https://github.com/SayakSaha2002/MyPortfolio.git
+```
+Open `index.html` in your browser — that's it!
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-portfolio.git
-Open index.html in your browser — that's it!
+# 📸 Snapshot
 
-📸 Screenshots
-Add a few screenshots of your homepage, project section, and contact page here (optional).
 
-🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 Hi, I'm Sayak Saha, a Master's student at Future Institute of Engineering and Management. I'm passionate about web development, machine learning, and building practical projects that solve real-world problems.
 
-📫 Contact Me
-📧 Email: sayaksaha.dev@gmail.com
+# 📫 Contact Me
+📧 Email: `sahasayak2002@gmail.com`
 
-🌐 LinkedIn: linkedin.com/in/sayaksaha (add real link)
+`💼 [Portfolio:](https://sayaksaha2002.github.io/MyPortfolio/)`
 
-💼 Portfolio: sayaksaha.github.io (add live link if hosted)
-
-📃 License
+# 📃 License
 This project is open source under the MIT License.
