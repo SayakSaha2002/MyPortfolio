@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website!
 This site showcases my projects, skills, education, and contact information in a clean and responsive layout.
 
-[Demo](https://youtu.be/GzlnDkwIo_w)
+🎥 [Watch Demo Video](https://youtu.be/GzlnDkwIo_w)
 # 🔍 Overview
 This portfolio highlights:
 
