@@ -2,6 +2,7 @@
 Welcome to my personal portfolio website!
 This site showcases my projects, skills, education, and contact information in a clean and responsive layout.
 
+[Demo](https://youtu.be/GzlnDkwIo_w)
 # 🔍 Overview
 This portfolio highlights:
 
@@ -55,7 +56,7 @@ git clone https://github.com/SayakSaha2002/MyPortfolio.git
 Open `index.html` in your browser — that's it!
 
 # 📸 Snapshot
-
+![Image](https://github.com/user-attachments/assets/b293b7ff-5a0c-4dc4-8072-6328ce36f9c0)
 
 # 🙋‍♂️ About Me
 Hi, I'm Sayak Saha, a Master's student at Future Institute of Engineering and Management. I'm passionate about web development, machine learning, and building practical projects that solve real-world problems.
@@ -63,7 +64,7 @@ Hi, I'm Sayak Saha, a Master's student at Future Institute of Engineering and Ma
 # 📫 Contact Me
 📧 Email: `sahasayak2002@gmail.com`
 
-💼 [Portfolio:](https://sayaksaha2002.github.io/MyPortfolio/)
+💼 [Portfolio Live:](https://sayaksaha2002.github.io/MyPortfolio/)
 
 # 📃 License
 This project is open source under the MIT License.
